@@ -22,7 +22,7 @@ company?
 
 **Snakes & Ladders**: This algorithm simply implements a simulation of 2 players playing a game of Snakes & Ladders. Refer to the image 'Board State.png' file for a visual view of the board state. This simulation is run 10,000 times to get an accurate assumption.
 
-Goals
+Goals:
 * If you played the game by yourself, what is the average number of rolls required to finish?
 * In a two person game, what is the average number of combined rolls by both players required for the
 game to finish?
